@@ -1,0 +1,6 @@
+MySQL:
+  enable: false
+  host: "127.0.0.1:3306"
+  database: "your_database"
+  user: "your_user"
+  password: "your_password"

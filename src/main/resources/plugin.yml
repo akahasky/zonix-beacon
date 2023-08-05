@@ -1,0 +1,5 @@
+name: zonix-beacon
+main: net.zonixmc.beacon.BeaconPlugin
+version: 1.0.0
+author: "akahasky"
+depend: ["zonix-factions"]
